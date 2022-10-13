@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatheusNK
-- 🌱 I’m currently learning programming in java
+- 🌱 I’m currently learning programming in javaScript
 - 📫 How to reach me: Brazil, São José Santa Catarina
 
 <!---
